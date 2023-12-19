@@ -6,7 +6,7 @@ Programmer en Python et à l’aide du module Pygame le jeu “Flappy Bird” de
 
 ## Temps : 2j
 
-## Prérequis : Base en programmation c’est bine
+## Prérequis : Base en programmation sont un plus, mais pas obligatoire.
 
 # Notions :
 
